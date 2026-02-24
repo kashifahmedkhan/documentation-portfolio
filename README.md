@@ -17,21 +17,21 @@
 ## [CaseProof](https://caseproof.com/)
 ---
 
-## MemberPress
+### MemberPress
 
 * One complete article and many minor updates/changes to all MemberPress documents.
 * [How To Use Amelia Booking With MemberPress](https://memberpress.com/docs/how-to-use-amelia-booking-with-memberpress/)
 
 ---
 
-## MemberPress AppKit
+### MemberPress AppKit
 
 All articles in this folder:
 [https://memberpress.com/doc-categories/app/](https://memberpress.com/doc-categories/app/)
 
 ---
 
-## WishList LMS Lite
+### WishList LMS Lite
 
 * Approximately **47 articles** prepared and saved as drafts for release alongside the product launch.
 
