@@ -15,7 +15,6 @@
 ---
 
 ## [CaseProof](https://caseproof.com/)
----
 
 ### MemberPress
 
@@ -37,8 +36,6 @@
 ---
 
 ## [ThemePunch](https://www.themepunch.com/)
-
----
 
 ### [Slider Revolution Manual](https://www.sliderrevolution.com/manual/)
 
