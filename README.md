@@ -14,7 +14,7 @@
 
 ---
 
-## CaseProof
+## [CaseProof](https://caseproof.com/)
 
 *(No public links available — internal documentation work.)*
 
