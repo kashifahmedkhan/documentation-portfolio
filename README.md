@@ -3,9 +3,9 @@
 ## Table of Contents
 
 * [CaseProof](#caseproof)
-* [MemberPress](#memberpress)
-* [MemberPress AppKit](#memberpress-appkit)
-* [WishList LMS Lite](#wishlist-lms-lite)
+  * [MemberPress](#memberpress)
+  * [MemberPress AppKit](#memberpress-appkit)
+  * [WishList LMS Lite](#wishlist-lms-lite)
 * [ThemePunch](#themepunch)
 
   * [Manual](#manual)
