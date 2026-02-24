@@ -36,11 +36,11 @@
 
 ---
 
-## [ThemePunch]
+## [ThemePunch](https://www.themepunch.com/)
 
 ---
 
-### [Slider Revolution Manual](https://www.sliderrevolution.com/)
+### [Slider Revolution Manual](https://www.sliderrevolution.com/manual/)
 
 * [https://www.sliderrevolution.com/manual/browse-install-and-enable-disable-addons/](https://www.sliderrevolution.com/manual/browse-install-and-enable-disable-addons/)
 * [https://www.sliderrevolution.com/manual/how-to-use-custom-svg-in-the-particle-effects-addon/](https://www.sliderrevolution.com/manual/how-to-use-custom-svg-in-the-particle-effects-addon/)
