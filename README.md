@@ -15,28 +15,28 @@
 ---
 
 ## [CaseProof](https://caseproof.com/)
-
+---
 ### MemberPress
 
 * One complete article and many minor updates/changes to all MemberPress documents.
 * [How To Use Amelia Booking With MemberPress](https://memberpress.com/docs/how-to-use-amelia-booking-with-memberpress/)
 
----
+
 
 ### MemberPress AppKit
 
 [All articles in the MemberPress AppKit](https://memberpress.com/doc-categories/app/)
 
----
+
 
 ### WishList LMS Lite
 
 * Approximately **47 articles** prepared and saved as drafts for release alongside the product launch.
 
----
+
 
 ## [ThemePunch](https://www.themepunch.com/)
-
+---
 ### [Slider Revolution Manual](https://www.sliderrevolution.com/manual/)
 
 * [https://www.sliderrevolution.com/manual/browse-install-and-enable-disable-addons/](https://www.sliderrevolution.com/manual/browse-install-and-enable-disable-addons/)
@@ -49,7 +49,7 @@
 * [https://www.sliderrevolution.com/manual/create-a-facebook-media-feed-from-scratch/](https://www.sliderrevolution.com/manual/create-a-facebook-media-feed-from-scratch/)
 * [https://www.sliderrevolution.com/manual/vimeo-media-feed-from-scratch/](https://www.sliderrevolution.com/manual/vimeo-media-feed-from-scratch/)
 
----
+
 
 ### [Slider Revolution FAQs](https://www.sliderrevolution.com/faq/)
 
@@ -82,7 +82,7 @@
 * [https://www.sliderrevolution.com/faq/troubleshoot-module-editor-screen-freeze/](https://www.sliderrevolution.com/faq/troubleshoot-module-editor-screen-freeze/)
 * [https://www.sliderrevolution.com/faq/slider-revolution-images-troubleshooting/](https://www.sliderrevolution.com/faq/slider-revolution-images-troubleshooting/)
 
----
+
 
 ### [Slider Revolution Blog Posts](https://www.sliderrevolution.com/blog/)
 
