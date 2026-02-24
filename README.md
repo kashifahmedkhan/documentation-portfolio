@@ -15,15 +15,12 @@
 ---
 
 ## [CaseProof](https://caseproof.com/)
-
-*(No public links available — internal documentation work.)*
-
 ---
 
 ## MemberPress
 
 * One complete article and many minor updates/changes to all MemberPress documents.
-* [https://memberpress.com/docs/how-to-use-amelia-booking-with-memberpress/](https://memberpress.com/docs/how-to-use-amelia-booking-with-memberpress/)
+* [How To Use Amelia Booking With MemberPress](https://memberpress.com/docs/how-to-use-amelia-booking-with-memberpress/)
 
 ---
 
