@@ -26,8 +26,7 @@
 
 ### MemberPress AppKit
 
-All articles in this folder:
-[https://memberpress.com/doc-categories/app/](https://memberpress.com/doc-categories/app/)
+[All articles in the MemberPress AppKit](https://memberpress.com/doc-categories/app/)
 
 ---
 
@@ -37,9 +36,11 @@ All articles in this folder:
 
 ---
 
-## ThemePunch
+## [ThemePunch]
 
-### Manual
+---
+
+### [Slider Revolution Manual](https://www.sliderrevolution.com/)
 
 * [https://www.sliderrevolution.com/manual/browse-install-and-enable-disable-addons/](https://www.sliderrevolution.com/manual/browse-install-and-enable-disable-addons/)
 * [https://www.sliderrevolution.com/manual/how-to-use-custom-svg-in-the-particle-effects-addon/](https://www.sliderrevolution.com/manual/how-to-use-custom-svg-in-the-particle-effects-addon/)
@@ -53,7 +54,7 @@ All articles in this folder:
 
 ---
 
-### FAQs
+### [Slider Revolution FAQs](https://www.sliderrevolution.com/faq/)
 
 * [https://www.sliderrevolution.com/faq/how-to-add-spacing-to-row-column-layers/](https://www.sliderrevolution.com/faq/how-to-add-spacing-to-row-column-layers/)
 * [https://www.sliderrevolution.com/faq/how-to-add-spacing-to-layers-in-slider-revolution/](https://www.sliderrevolution.com/faq/how-to-add-spacing-to-layers-in-slider-revolution/)
@@ -86,7 +87,7 @@ All articles in this folder:
 
 ---
 
-### Blog Posts
+### [Slider Revolution Blog Posts](https://www.sliderrevolution.com/blog/)
 
 * [https://www.sliderrevolution.com/resources/microsoft-to-stop-supporting-internet-explorer-11-in-june-2022/](https://www.sliderrevolution.com/resources/microsoft-to-stop-supporting-internet-explorer-11-in-june-2022/)
 * [https://www.sliderrevolution.com/tutorials/introducing-slider-revolution-seo-addon/](https://www.sliderrevolution.com/tutorials/introducing-slider-revolution-seo-addon/)
